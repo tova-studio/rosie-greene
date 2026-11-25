@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:29:46.406Z",
+  "slug": "rosiegreene",
+  "name": "Rosie Greene",
+  "city": "Christchurch",
+  "industry": {
+    "label": "GPs & medical centres",
+    "niche": "gps & medical centres",
+    "group": "Health & medical"
+  },
+  "contact": {
+    "phone": "+64274372066",
+    "email": "rosie@rosiegreene.co.nz",
+    "address": "11/75 Peterborough St, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/593063881137954"
+  },
+  "about": {
+    "overview": "Rosie Greene has been a practitioner of Visceral Manipulation since 2008, with this work becoming the foundation for all of her treatments. She runs an extensive clinical practice in North Canterbury, New Zealand treating adults and children, who present with a broad spectrum of clinical presentations ranging from the elite athletes, to people with gastro-intestinal and pelvic conditions, post-surgical and post trauma conditions, and many others. Rosie’s broad post graduate training includes studies in visceral, vascular and neural manipulation and craniosacral therapy.",
+    "services": [
+      "Rosie Greene"
+    ]
+  },
+  "before": {
+    "url": "http://www.rosiegreene.co.nz/",
+    "domain": "rosiegreene.co.nz",
+    "finalUrl": "http://rosiegreene.co.nz/",
+    "title": "Rosie Greene – Visceral Manipulation",
+    "pages": 8,
+    "score": 64,
+    "assessedAt": "2026-11-22T13:02:12.991Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://rosiegreene.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2016, 10 years ago."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/rosie-greene/",
+    "repoUrl": "https://github.com/tova-studio/rosie-greene",
+    "generator": "claude",
+    "accent": "#f78da7",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:29:46.407Z"
+  }
+}
